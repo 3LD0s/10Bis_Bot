@@ -1,0 +1,8 @@
+daily_limit: 0
+input_funds:
+  transfer_from: "tenbis"
+  email: "eldars@comsecglobal.com"
+  phone: "+972522390550"
+  OTP: ""
+browser: "firefox"
+
