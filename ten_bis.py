@@ -308,8 +308,8 @@ def number_of_voucher(monthly_balance):
 
 
 def send_massage(msg, phone):
-    account_sid = 'ACd75121056db21981c932136355c6895e'
-    auth_token = '53b23266d5cf8feb347fc27d22df5107'
+    account_sid = ''
+    auth_token = ''
     client = Client(account_sid, auth_token)
 
     try:
